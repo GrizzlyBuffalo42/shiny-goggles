@@ -56,3 +56,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+repository: GrizzlyBuffalo42/shiny-goggles
