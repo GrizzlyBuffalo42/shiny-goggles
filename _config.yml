@@ -24,9 +24,9 @@ title: Hi there!
 #   Write an awesome description for your new site here. You can edit this
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results) and in your feed.xml site description.
-domain: "grizzlybuffalo42.github.io" # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-baseurl: "/shiny-goggles" # the subpath of your site, e.g. /blog
-url: "https://grizzlybuffalo42.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+domain: "djuna.day" # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://djuna.day" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 photo: assets/files/photo.jpg
@@ -45,7 +45,7 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
