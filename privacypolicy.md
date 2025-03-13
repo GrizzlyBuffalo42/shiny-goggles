@@ -20,6 +20,8 @@ Where necessary, this website uses cookies to store information about a visitorâ
 
 Advertising partners and other third parties may use cookies, scripts and/or web beacons to track visitor activities on this website to display advertisements and other useful information. Such tracking is done directly by the third parties through their servers and is subject to their privacy policies. This website has no access or control over these cookies, scripts and/or web beacons that may be used by third parties.
 
+No mobile information will be shared with third parties/affiliates for marketing/promotional purposes. All other categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
+
 ## Security
 
 The security of your personal information is important to me, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While I strive to use commercially acceptable means to protect your personal information, I cannot guarantee its absolute security.
